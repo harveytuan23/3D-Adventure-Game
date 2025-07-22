@@ -1,4 +1,4 @@
-# �� Birthday Project - Memory Collection Game
+# 🥳 Birthday Project - Memory Collection Game
 
 My girlfriend often forgets some of our funniest and most heartwarming shared memories.
 So I designed this game as a way to preserve and present those moments through an interactive format.
